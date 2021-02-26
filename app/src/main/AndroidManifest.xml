@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Notepad">
         <activity android:name=".ui.activity.FormularioNotaActivity"></activity>
-        <activity android:name=".ui.activity.TaskListActivity">
+        <activity android:name=".ui.activity.ListaNotasActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
